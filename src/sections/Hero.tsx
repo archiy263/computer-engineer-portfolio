@@ -59,7 +59,7 @@ export function Hero() {
               <p className="text-[10px] uppercase tracking-wider text-(--muted)">Projects</p>
             </div>
             <div>
-              <p className="text-lg font-bold text-(--foreground)">2</p>
+              <p className="text-lg font-bold text-(--foreground)">3</p>
               <p className="text-[10px] uppercase tracking-wider text-(--muted)">Internships</p>
             </div>
             <div>

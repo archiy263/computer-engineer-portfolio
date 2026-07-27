@@ -83,6 +83,14 @@ export function About() {
           <h3 className="text-sm font-bold">Experience</h3>
           <div className="mt-3 space-y-4">
             <div>
+              <h4 className="text-xs font-semibold text-(--foreground)">AI Intern @ Syntecxhub</h4>
+              <ul className="mt-1.5 space-y-1 text-[11px] leading-relaxed text-(--muted)">
+                <li>• Completed structured program on AI fundamentals and basic model workflows.</li>
+                <li>• Improved skills in problem-solving, analytical thinking, and technical learning.</li>
+                <li>• Developed professional communication and teamwork skills in a tech environment.</li>
+              </ul>
+            </div>
+            <div>
               <h4 className="text-xs font-semibold text-(--foreground)">AI Intern @ Infosys SpringBoard</h4>
               <ul className="mt-1.5 space-y-1 text-[11px] leading-relaxed text-(--muted)">
                 <li>• Developed AI apps integrating RESTful APIs and backend services.</li>
